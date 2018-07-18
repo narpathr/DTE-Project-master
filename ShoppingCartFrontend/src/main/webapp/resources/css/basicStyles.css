@@ -1,0 +1,57 @@
+.margin50 {
+	margin-top:50px;
+}
+
+.panel-success>.panel-heading {
+   
+    color: #ffffff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    font-family: 'Handlee', cursive;
+}
+
+.panel-body {
+	font-family: 'Amaranth', sans-serif;
+}
+
+.toFloat>a {
+	float:right; 
+	font-size: 80%; 
+	position: relative; 
+	top:-17px;
+	color: #ffffff;
+}
+
+.navbar-brand {
+    padding-left: 7px!important;
+    padding-right: 0px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+
+.tableTextvAlign {
+	vertical-align:middle!important;
+	align-items: center;
+}
+
+th {
+	text-align: center;
+}
+
+.well {
+    color:#ffffff;
+    min-height: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    background-color: #eea236;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+}
+
+.btnAlign {
+	margin-left:auto;
+	margin-right:0px;
+	display:block;
+}

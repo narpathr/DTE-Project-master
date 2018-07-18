@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+.margin50 {
+	margin-top:50px;
+}
+
+.panel-info>.panel-heading {
+    color: #ffffff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.toFloat>a {
+	float:right; 
+	font-size: 80%; 
+	position: relative; 
+	top:-17px;
+	color: #ffffff;
+}
+
+.navbar-brand {
+    padding-left: 7px!important;
+    padding-right: 0px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
